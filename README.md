@@ -3,4 +3,4 @@ Git repository for pyladies git workshop 2024-11-09
 
 Collection of *fine* poetry and jokes.
 
-To use call git clone [url]
+To use call **git clone** [url]
